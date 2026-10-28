@@ -13,3 +13,7 @@ Run this command in this folder, then visit `http://localhost:5500`:
 ```bash
 python3 -m http.server 5500
 ```
+
+## AI declaration
+
+ChatGPT helped with the D3 charts, data preparation and page styling.
